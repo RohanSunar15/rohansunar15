@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and const
 - 🌱 I’m currently learning Flutter , Node.js , Firebase  and exploring new technologies.
 - 👯 I’m looking to collaborate on exciting and impactful projects.
 - 📫 How to reach me: rohanksunar15@gmail.com
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I love playing football , volleyball and many more.
 
 
